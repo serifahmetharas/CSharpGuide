@@ -1,0 +1,16 @@
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.exe
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.deps.json
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.runtimeconfig.json
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.runtimeconfig.dev.json
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.dll
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\bin\Debug\net5.0\ref\ReferenceAndValueType.dll
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.pdb
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.AssemblyInfoInputs.cache
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.AssemblyInfo.cs
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.dll
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ref\ReferenceAndValueType.dll
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.pdb
+C:\Users\serif\source\repos\CSharpGuide\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.genruntimeconfig.cache
