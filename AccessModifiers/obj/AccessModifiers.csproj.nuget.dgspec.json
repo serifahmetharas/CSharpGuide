@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serif\\source\\repos\\CSharpGuide\\AccessModifiers\\AccessModifiers.csproj": {}
+    "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\AccessModifiers\\AccessModifiers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serif\\source\\repos\\CSharpGuide\\AccessModifiers\\AccessModifiers.csproj": {
+    "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\AccessModifiers\\AccessModifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serif\\source\\repos\\CSharpGuide\\AccessModifiers\\AccessModifiers.csproj",
+        "projectUniqueName": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\AccessModifiers\\AccessModifiers.csproj",
         "projectName": "AccessModifiers",
-        "projectPath": "C:\\Users\\serif\\source\\repos\\CSharpGuide\\AccessModifiers\\AccessModifiers.csproj",
+        "projectPath": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\AccessModifiers\\AccessModifiers.csproj",
         "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serif\\source\\repos\\CSharpGuide\\AccessModifiers\\obj\\",
+        "outputPath": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\AccessModifiers\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

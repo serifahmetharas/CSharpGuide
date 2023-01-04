@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\serif\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\CSharpGuide\\Reflection\\Reflection.csproj",
+      "projectUniqueName": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\Reflection\\Reflection.csproj",
       "projectName": "Reflection",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\CSharpGuide\\Reflection\\Reflection.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\CSharpGuide\\Reflection\\obj\\",
+      "projectPath": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\Reflection\\Reflection.csproj",
+      "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\Reflection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

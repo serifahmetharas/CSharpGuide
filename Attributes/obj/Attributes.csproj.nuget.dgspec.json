@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\CSharpGuide\\Attributes\\Attributes.csproj": {}
+    "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\Attributes\\Attributes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\CSharpGuide\\Attributes\\Attributes.csproj": {
+    "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\Attributes\\Attributes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\CSharpGuide\\Attributes\\Attributes.csproj",
+        "projectUniqueName": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\Attributes\\Attributes.csproj",
         "projectName": "Attributes",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\CSharpGuide\\Attributes\\Attributes.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\CSharpGuide\\Attributes\\obj\\",
+        "projectPath": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\Attributes\\Attributes.csproj",
+        "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serif\\OneDrive\\Belgeler\\GitHub\\CSharpGuide\\Attributes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
